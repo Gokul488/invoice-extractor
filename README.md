@@ -13,6 +13,13 @@ Extracts structured data from invoice images using AI (OpenRouter API with Googl
 ```bash
 npm install
 ```
+## Dependencies
+
+Make sure the following are installed (already in package.json):
+- `dotenv`
+- `ts-node`
+- `typescript`
+- `@types/node`
 
 2. Create a `.env` file in the root:
 ```
