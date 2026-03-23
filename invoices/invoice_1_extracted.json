@@ -1,0 +1,31 @@
+{
+  "vendor": {
+    "name": "Patel, Thompson and Montgomery",
+    "address": "356 Kyle Vista\nNew James, MA 46228",
+    "tax_id": "958-74-3511",
+    "iban": "GB77WRBQ31965128414006"
+  },
+  "client": {
+    "name": "Jackson, Odonnell and Jackson",
+    "address": "267 John Track Suite 841\nJenniferville, PA 98601",
+    "tax_id": "998-87-7723"
+  },
+  "invoice_number": "40378170",
+  "invoice_date": "2012-10-15",
+  "totals": {
+    "net_worth": 7.5,
+    "vat": 0.75,
+    "grand_total": 8.25
+  },
+  "line_items": [
+    {
+      "description": "Leed's Wine Companion Bottle\nCorkscrew Opener Gift Box Set\nwith Foil Cutter",
+      "quantity": 1,
+      "unit_of_measure": "each",
+      "unit_price": 7.5,
+      "net_worth": 7.5,
+      "vat_percent": 10,
+      "line_total": 8.25
+    }
+  ]
+}

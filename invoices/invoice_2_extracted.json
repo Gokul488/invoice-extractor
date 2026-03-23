@@ -1,0 +1,58 @@
+{
+  "vendor": {
+    "name": "Chapman, Kim and Green",
+    "address": "64731 James Branch\nSmithmouth, NC 26872",
+    "tax_id": "949-84-9105",
+    "iban": "GB50ACIE59715038217063"
+  },
+  "client": {
+    "name": "Rodriguez-Stevens",
+    "address": "2280 Angela Plain\nHortonshire, MS 93248",
+    "tax_id": "939-98-8477"
+  },
+  "invoice_number": "61356291",
+  "invoice_date": "2012-09-06",
+  "totals": {
+    "net_worth": 192.81,
+    "vat": 19.28,
+    "grand_total": 212.09
+  },
+  "line_items": [
+    {
+      "description": "Wine Glasses Goblets Pair Clear\nGlass",
+      "quantity": 5,
+      "unit_of_measure": "each",
+      "unit_price": 12,
+      "net_worth": 60,
+      "vat_percent": 10,
+      "line_total": 66
+    },
+    {
+      "description": "With Hooks Stemware Storage\nMultiple Uses Iron Wine Rack\nHanging Glass",
+      "quantity": 4,
+      "unit_of_measure": "each",
+      "unit_price": 28.08,
+      "net_worth": 112.32,
+      "vat_percent": 10,
+      "line_total": 123.55
+    },
+    {
+      "description": "Replacement Corkscrew Parts\nSpiral Worm Wine Opener Bottle\nHoudini",
+      "quantity": 1,
+      "unit_of_measure": "each",
+      "unit_price": 7.5,
+      "net_worth": 7.5,
+      "vat_percent": 10,
+      "line_total": 8.25
+    },
+    {
+      "description": "HOME ESSENTIALS GRADIENT\nSTEMLESS WINE GLASSES SET\nOF 4 20 FL OZ (591 ml) NEW",
+      "quantity": 1,
+      "unit_of_measure": "each",
+      "unit_price": 12.99,
+      "net_worth": 12.99,
+      "vat_percent": 10,
+      "line_total": 14.29
+    }
+  ]
+}
